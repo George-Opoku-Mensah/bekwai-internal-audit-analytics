@@ -1,0 +1,7 @@
+-- Total by department
+SELECT Department, SUM(Amount-GHS) AS
+FROM Expenses
+GROUP BY Department;
+--Suspicious amounts
+SELECT * FROM Expenses WHERE Amount-GHS
+> 50000;
