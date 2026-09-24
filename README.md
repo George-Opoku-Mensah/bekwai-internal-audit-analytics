@@ -6,7 +6,7 @@ Analyzed expenditure data for Bekwai Municipal Assembly to identify spending pat
 ![Total Expenditure by Department](chart.png)
 ## 🔍 Key Findings
 - **Sanitation - GHS 60,616 (22%)**: Highest expenditure - audit flag for contract review
-- **Education - GHS 55,876**: Second highest, exceeds Education & Health - potential overhead bloat
+- **Education - GHS 55,876**: Second highest, exceeds Health & Roads - potential overhead bloat
 - **Health - GHS 54,873 | Roads - GHS 51,941 | Administration - GHS 51,175**
 - Total Analyzed: GHS 274,481 across 5 departments
 ## 🛠️ Tools Used
