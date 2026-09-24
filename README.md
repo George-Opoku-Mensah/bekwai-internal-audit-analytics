@@ -15,7 +15,7 @@ Analyzed expenditure data for Bekwai Municipal Assembly to identify spending pat
 - Excel - Data validation & pivot tables
 - Power BI - Visualization
 ## 💡 Audit Recommendation
-Review sanitation waste contracts and administrative expenses. Reallocate savings to Education and Health service delivery.
+Review sanitation waste contracts and education expenses. Reallocate savings to Health  and Roads service delivery.
 ## 📂 Files
 - `analysis.py` - Python code for analysis
 - `queries.sql` - SQL queries
